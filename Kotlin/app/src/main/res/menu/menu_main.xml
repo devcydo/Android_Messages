@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.mensajeria.HomeActivity">
+
+    <item android:id="@+id/menuChatGrupal"
+          android:title="Nuevo chat grupal"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/menuEstado"
+          android:title="Nuevo estado"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/menuContacto"
+          android:title="Nuevo contacto"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>

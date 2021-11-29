@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mensajeria</string>
+    <string name="ws">http://10.27.146.25/mensajeria/</string>
+    <string name="ip">http://10.27.146.25</string>
+
+    <string name="imgDescUsr">Foto de perfil</string>
+    <string name="title_activity_home">Mensajeria</string>
+    <string name="title_home">Chats</string>
+    <string name="title_dashboard">Contactos</string>
+    <string name="title_notifications">Estados</string>
+</resources>
